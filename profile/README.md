@@ -1,21 +1,24 @@
 # Earthframe
 
-*Building the future of spatial intelligence and geospatial technology.*
+*Sovereign, sustainable hardware and software infrastructure for the world's most precious data.*
 
 ---
 
 ## Welcome
 
-Earthframe is a forward-thinking organization dedicated to developing cutting-edge tools and solutions for geospatial analysis, mapping, and spatial data processing. Our projects focus on accessibility, performance, and innovation in the geospatial domain.
+Earthframe is a Public Benefit Corporation on a mission to build a more efficient, transparent, sovereign data economy. EarthFrame helps businesses and communities to:
+
+- Understand the energy usage of AI and data processing systems
+- Manage, own, and govern their own data with powerful hardware systems and easy to use software
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Mar](https://github.com/earthframe/mar)
-*[Brief description of Mar goes here]*
+*An archive format and data toolkit for the 21st Century*
 
-A powerful tool for [feature description]. Designed to [key benefit], Mar provides [main capability] with an intuitive interface and robust performance.
+EarthFrame `mar` is an archive format and reference software toolkit for long- and short-term storage, compression, checksum verification, and sharing of data.
 
 **Get Started:** [Documentation](#) | [Contribute](#)
 
@@ -24,66 +27,42 @@ A powerful tool for [feature description]. Designed to [key benefit], Mar provid
 ### [Warpt](https://github.com/earthframe/warpt)
 *[Brief description of Warpt goes here]*
 
-[Feature overview]. Warpt enables [main use case] through [technical approach], making it easier to [benefit]. Perfect for teams that need [target audience].
+[warpt] is EarthFrame's python toolkit for stress testing, benchmarking, and energy monitoring of hardware and software systems. `warpt` gives your the tools to get your configuration running as efficiently as possible, whether you're on one of our systems, on a laptop, or in the cloud.
 
 **Get Started:** [Documentation](#) | [Contribute](#)
 
 ---
 
-## 📚 Explore More
-
-Beyond our flagship projects, Earthframe maintains a collection of specialized tools and libraries:
-
-- **[Repository Name](#)** — [One-line description]
-- **[Repository Name](#)** — [One-line description]
-- **[Repository Name](#)** — [One-line description]
-
-See all our projects: [View on GitHub](https://github.com/earthframe)
-
----
-
-## 🌐 Connect With Us
+## Connect With Us
 
 We love connecting with fellow developers, researchers, and enthusiasts. Find us here:
 
-- **Website:** [earthframe.io](https://earthframe.io)
+- **Website:** [earthframe.com](https://earthframe.com)
 - **LinkedIn:** [Earthframe on LinkedIn](https://linkedin.com/company/earthframe)
-- **Twitter:** [@earthframe](https://twitter.com/earthframe)
-- **Discord:** [Join our community](#)
 
 ---
 
 ## 🤝 Contributing
 
-We're always looking for talented developers to join our mission. Whether you're interested in:
-
-- **Reporting bugs** — Help us improve by identifying issues
-- **Suggesting features** — Share your ideas for new capabilities
-- **Contributing code** — Submit pull requests and become a contributor
-- **Improving documentation** — Help us write clearer guides and examples
-
-Check out our [Contributing Guidelines](CONTRIBUTING.md) to get started.
+Coming Soon.
 
 ---
 
 ## 📖 Documentation & Resources
 
-- **[Getting Started Guide](#)** — Quick introduction to Earthframe projects
-- **[API Documentation](#)** — Complete technical reference
-- **[Tutorial Series](#)** — Step-by-step guides and examples
-- **[Blog](#)** — Latest updates, insights, and deep dives
+Coming Soon.
 
 ---
 
 ## 📄 License
 
-Our projects are licensed under various open-source licenses. See individual repositories for specific licensing information.
+Our projects are licensed under various licenses (both open-source and commercial). See individual repositories for specific licensing information.
 
 ---
 
 <div align="center">
 
-Made with ❤️ by the Earthframe community
+Made with 🌶️ by Earthframe Corporation
 
 [⭐ Star us on GitHub](https://github.com/earthframe) | [💬 Join our community](#) | [📧 Get in touch](#)
 
