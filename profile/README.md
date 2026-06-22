@@ -20,16 +20,12 @@ Earthframe is a Public Benefit Corporation on a mission to build a more efficien
 
 EarthFrame `mar` is an archive format and reference software toolkit for long- and short-term storage, compression, checksum verification, and sharing of data.
 
-**Get Started:** [Documentation](#) | [Contribute](#)
-
 ---
 
 ### [Warpt](https://github.com/earthframe/warpt)
-*[Brief description of Warpt goes here]*
+Pushing radical transparency for data processing hardware and energy usage*
 
-[warpt] is EarthFrame's python toolkit for stress testing, benchmarking, and energy monitoring of hardware and software systems. `warpt` gives your the tools to get your configuration running as efficiently as possible, whether you're on one of our systems, on a laptop, or in the cloud.
-
-**Get Started:** [Documentation](#) | [Contribute](#)
+[warpt] is EarthFrame's python toolkit for hardware transparency, energy monitoring, stress testing and benchmarking of hardware and software systems. `warpt` gives your the tools to get your configuration running as efficiently as possible, whether you're on one of our systems, on a laptop, or in the cloud.
 
 ---
 
